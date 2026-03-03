@@ -92,3 +92,10 @@ The game window should open and you can start playing.
 - Each food increases your score
 - Avoid hitting the wall
 - Avoid colliding with your own body
+
+## Author
+
+Adebayo Adesugba
+
+Full Stack Developer
+Python | JavaScript | React | Node.js |
